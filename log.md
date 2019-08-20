@@ -5,12 +5,14 @@
 
 **Today's Progress**: Created a python script to print the location of the given bucket
 
-**Thoughts:** Spent a lot of time in configuring git to use personal github account. Finally managed to fix it at 12.15 AM and commited using my personal github account.
+**Thoughts:** First day of #100daysofcode. Excited to be a part of it. Stop whining, start doing. I'll give my best in this.
+
+Spent a lot of time in configuring git to use personal github account. Finally managed to fix it at 12.15 AM and commited using my personal github account.
 
 **Link to work:** 
 
 
-### Day 1: 20 August 2019
+### Day 2: 20 August 2019
 ##### 
 
 **Today's Progress**: Created a python script using boto3 to print the location, logging status, versioning status of all S3 buckets in your account.
