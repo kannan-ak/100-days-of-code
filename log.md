@@ -21,5 +21,5 @@ Spent a lot of time in configuring git to use personal github account. Finally m
 
 I felt this script is fairly easy as I know what method to select to get the logging, versioning details. I should increase the difficult level everyday.
 
-**Link to work:** 
+**Link to work:** https://github.com/kannan-ak/boto3/blob/master/get_bucket_details.py
 
